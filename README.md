@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 ## 📬 Get in Touch
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 20px; filter: invert(1);">
   </a>
-  <a href="https://t.me/yourusername" target="_blank" style="margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" alt="Telegram" width="40" height="40" />
+  <a href="https://t.me/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" alt="Telegram" width="40" height="40" style="margin: 0 20px; filter: invert(1);">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank" style="margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mail.svg" alt="Email" width="40" height="40" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mail.svg" alt="Email" width="40" height="40" style="margin: 0 20px; filter: invert(1);">
   </a>
 </div>
 
