@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [JOKE]
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksandr-kaledin&show_icons=true&theme=radical)
 
 ### 😉: Programming Joke :
 <!-- Markdown -->
