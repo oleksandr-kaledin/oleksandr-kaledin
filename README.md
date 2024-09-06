@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view?usp=sharing" width="300"/>
+</p>
 
 <!--
 **oleksandr-kaledin/oleksandr-kaledin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
