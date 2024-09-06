@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [JOKE]
 -->
 1
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-kaledin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😉: Programming Joke :
 <!-- Markdown -->
