@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [REACH ME]
 [JOKE]
 -->
-<a href="mailto:your.email@example.com" style="display: inline-block; background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: bold;">
+<a href="mailto:your.email@example.com" style="display: inline-block; background-color: #ffffff; color: #ffffff; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: bold;">
   📧 Email Me
 </a>
 
