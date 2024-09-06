@@ -20,15 +20,17 @@ Here are some ideas to get you started:
 [REACH ME]
 [JOKE]
 -->
+## 📬 Get in Touch
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #0077b5; padding: 5px;" />
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #0088cc; padding: 5px;" />
+  <a href="https://t.me/yourusername" target="_blank" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" alt="Telegram" width="40" height="40" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" alt="Email" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #ea4335; padding: 5px;" />
+  <a href="mailto:your.email@example.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mail.svg" alt="Email" width="40" height="40" />
   </a>
 </div>
 
