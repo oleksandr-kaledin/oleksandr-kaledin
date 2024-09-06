@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 -->
 ## 📬 Get in Touch
 
+@medium
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 20px; filter: invert(1);">
