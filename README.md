@@ -20,9 +20,17 @@ Here are some ideas to get you started:
 [REACH ME]
 [JOKE]
 -->
-<a href="mailto:your.email@example.com" style="display: inline-block; background-color: #ffffff; color: #ffffff; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: bold;">
-  📧 Email Me
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #0077b5; padding: 5px;" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #0088cc; padding: 5px;" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" alt="Email" style="width: 40px; height: 40px; margin: 0 15px; border-radius: 50%; background-color: #ea4335; padding: 5px;" />
+  </a>
+</div>
 
 ### 😉: Programming Joke :
 <!-- Markdown -->
