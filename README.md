@@ -6,7 +6,9 @@
   <img src="[https://example.com/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlr.com%2Ffr%2Fimage-generator%2F&psig=AOvVaw1n_NZ5eTgbyNTMWkjXet97&ust=1725701252633000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD01KKArogDFQAAAAAdAAAAABAE)" alt="My Image">
 </p>
 
-[https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view?usp=sharing](https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view)
+![screenshot](https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view)
+
+![https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view?usp=sharing](https://drive.google.com/file/d/1RZOpE8M0nHUGEdjqMO64L6tll5g0Uu9W/view)
 
 <!--
 **oleksandr-kaledin/oleksandr-kaledin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
