@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [REACH ME]
 [JOKE]
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksandr-kaledin&show_icons=true&theme=radical)
+1
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😉: Programming Joke :
 <!-- Markdown -->
