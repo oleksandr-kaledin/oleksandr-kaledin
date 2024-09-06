@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 [REACH ME]
 [JOKE]
 -->
-1
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-kaledin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="mailto:your.email@example.com" style="display: inline-block; background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 50%; text-decoration: none; font-size: 16px; text-align: center;">📧 Email</a>
 
 ### 😉: Programming Joke :
 <!-- Markdown -->
