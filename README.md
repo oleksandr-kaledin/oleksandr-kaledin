@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 @medium
 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 
 <div align="center">
   
