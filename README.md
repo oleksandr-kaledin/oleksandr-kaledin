@@ -1,27 +1,11 @@
 
 ## 🦊 Hey foxes, What's cooking?
 
-<div style="text-align: left;">
-  <a href="https://medium.com/@swiftlynomad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-
-  <a href="mailto:olexandrkaledin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
-  <a href="https://t.me/okaledin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/oleksandr-kaledin-604b2b227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://m.me/100010129296335">
-    <img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
-  </a>
-</div>
+[https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=%23ffffff&color=%23555555](https://medium.com/@swiftlynomad)
+[https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=%23ffffff&color=%23555555](mailto:olexandrkaledin@gmail.com)
+[https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=%23ffffff&color=%23555555](https://t.me/okaledin)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=%23ffffff&color=%23555555](https://www.linkedin.com/in/oleksandr-kaledin-604b2b227)
+[https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=%23ffffff&color=%23555555](https://m.me/100010129296335)
 
 iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
 
