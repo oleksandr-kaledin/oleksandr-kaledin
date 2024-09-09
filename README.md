@@ -25,6 +25,13 @@
 
 iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
 
+## Latest [Dropped](https://apps.apple.com/ua/developer/oleksandr-kaledin/id1676895513) Apps
+
+- [Flowly: Life Balance Tracker](https://apps.apple.com/app/id6615071707)
+- [Quisss](https://apps.apple.com/app/id6446243239)
+- [My Habit Tracker](https://apps.apple.com/app/id6478667539)
+- [Calculator: Currency & Units](https://apps.apple.com/app/id6478310484)
+
 ## Latest [Blog](https://medium.com/@swiftlynomad) Posts
 
 - [Attach to Process & Logger](https://medium.com/p/3203a3042d18)
