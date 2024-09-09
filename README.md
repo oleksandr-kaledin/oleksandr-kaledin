@@ -1,28 +1,8 @@
 
-<!--
-**oleksandr-kaledin/oleksandr-kaledin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[I AM WORKING ON]
-[LEARNING]
-[MEDIUM]
-[REACH ME]
-[JOKE]
--->
-## 📬 Get in Touch
-
-@medium
-
+<div align="center">
+  <h2>🦊 Hey foxes, what's cooking?</h2>
+  <p>iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.</p>
+</div>
 
 <div align="center">
   <a href="https://medium.com/@swiftlynomad">
@@ -46,14 +26,21 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=oleksandr-kaledin&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=35764B&fire=35764B&background=212830&sideLabels=EBEBEB&dates=9198A2&excludeDaysLabel=EBEBEB00&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&border=3D444E&sideNums=FFFFFF&stroke=3D444E)](https://git.io/streak-stats)
-
+  <h3>📖 Latest Medium Posts:</h3>
+  <p>
+    🔥 <a href="https://medium.com/@swiftlynomad/post-1">Post 1 Title</a> <br>
+    ✨ <a href="https://medium.com/@swiftlynomad/post-2">Post 2 Title</a> <br>
+    🚀 <a href="https://medium.com/@swiftlynomad/post-3">Post 3 Title</a>
+  </p>
+  <p>
+    <a href="https://medium.com/@swiftlynomad">
+      <img src="https://img.shields.io/badge/See%20All%20Posts-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+  </p>
+  <p>🌟 Stay tuned for more content on app development, productivity hacks, and the latest tech trends!</p>
 </div>
 
-### 😉: Programming Joke :
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=oleksandr-kaledin&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=35764B&fire=35764B&background=212830&sideLabels=EBEBEB&dates=9198A2&excludeDaysLabel=EBEBEB00&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&border=3D444E&sideNums=FFFFFF&stroke=3D444E)](https://git.io/streak-stats)
+</div>
