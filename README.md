@@ -21,9 +21,3 @@ iOS and macOS developer with over 3 years of experience 🍏. My passion is in b
 - [Attach to Process & Logger](https://medium.com/p/3203a3042d18)
 - [The Decorator Pattern in Swift: A Comprehensive Guide](https://medium.com/p/7c107fb233d2)
 - [SwiftUI Property Wrappers](https://medium.com/p/299ed26772d5)
-
-<div style="text-align: left;">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=oleksandr-kaledin&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=35764B&fire=35764B&background=212830&sideLabels=EBEBEB&dates=9198A2&excludeDaysLabel=EBEBEB00&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&border=3D444E&sideNums=FFFFFF&stroke=3D444E)](https://git.io/streak-stats)
-
-</div>
