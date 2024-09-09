@@ -1,3 +1,8 @@
+
+## 🦊 Hey foxes, what's cooking?
+
+iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
+
 <div style="text-align: left;">
   <h2>🦊 Hey foxes, what's cooking?</h2>
   <p>iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.</p>
