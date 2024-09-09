@@ -42,5 +42,7 @@
 </div>
 
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=oleksandr-kaledin&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=35764B&fire=35764B&background=212830&sideLabels=EBEBEB&dates=9198A2&excludeDaysLabel=EBEBEB00&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&border=3D444E&sideNums=FFFFFF&stroke=3D444E)](https://git.io/streak-stats)
+
 </div>
