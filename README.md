@@ -26,14 +26,11 @@
 </div>
 
 <div style="text-align: left;">
-  <h3><u>📖 Latest Blog Posts</u></h3>
+  <h3><u>📖 Latest <a href="https://medium.com/@swiftlynomad">Blog</a> Posts</u></h3>
   <p>
     🔥 <a href="https://medium.com/@swiftlynomad/an-introduction-to-grids-in-swiftui" style="text-decoration: underline;">An Introduction to Grids in SwiftUI</a> <br>
     ✨ <a href="https://medium.com/@swiftlynomad/why-have-a-developer-diary" style="text-decoration: underline;">Why Have a Developer Diary?</a> <br>
     🚀 <a href="https://medium.com/@swiftlynomad/what-is-app-architecture" style="text-decoration: underline;">What is App Architecture?</a>
-  </p>
-  <p>
-    <a href="https://medium.com/@swiftlynomad">See more...</a>
   </p>
 </div>
 
