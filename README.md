@@ -1,10 +1,9 @@
-
-<div align="center">
+<div style="text-align: left;">
   <h2>🦊 Hey foxes, what's cooking?</h2>
   <p>iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.</p>
 </div>
 
-<div align="center">
+<div style="text-align: left;">
   <a href="https://medium.com/@swiftlynomad">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
@@ -26,7 +25,7 @@
   </a>
 </div>
 
-<div align="center">
+<div style="text-align: left;">
   <h3><u>📖 Latest Blog Posts</u></h3>
   <p>
     🔥 <a href="https://medium.com/@swiftlynomad/an-introduction-to-grids-in-swiftui" style="text-decoration: underline;">An Introduction to Grids in SwiftUI</a> <br>
@@ -38,7 +37,7 @@
   </p>
 </div>
 
-<div align="center">
+<div style="text-align: left;">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=oleksandr-kaledin&border_radius=16&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=35764B&fire=35764B&background=212830&sideLabels=EBEBEB&dates=9198A2&excludeDaysLabel=EBEBEB00&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&border=3D444E&sideNums=FFFFFF&stroke=3D444E)](https://git.io/streak-stats)
 
