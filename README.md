@@ -25,14 +25,11 @@
   </a>
 </div>
 
-<div style="text-align: left;">
-  <h2><u>📖 Latest <a href="https://medium.com/@swiftlynomad">Blog</a> Posts</u></h3>
-  <p>
-- <a href="https://medium.com/p/3203a3042d18" style="text-decoration: underline;">Attach to Process & Logger</a> <br>
-- <a href="https://medium.com/p/7c107fb233d2" style="text-decoration: underline;">The Decorator Pattern in Swift: A Comprehensive Guide</a> <br>
-- <a href="https://medium.com/p/299ed26772d5" style="text-decoration: underline;">SwiftUI Property Wrappers</a>
-  </p>
-</div>
+## Latest [Blog](https://medium.com/@swiftlynomad) Posts
+
+- [Attach to Process & Logger](https://medium.com/p/3203a3042d18)
+- [The Decorator Pattern in Swift: A Comprehensive Guide](https://medium.com/p/7c107fb233d2)
+- [SwiftUI Property Wrappers](https://medium.com/p/299ed26772d5)
 
 <div style="text-align: left;">
   
