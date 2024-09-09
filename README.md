@@ -1,11 +1,14 @@
 
 ## 🦊 Hey foxes, What's cooking?
 
-![https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=%23ffffff&color=%23555555](https://medium.com/@swiftlynomad)
-![https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=%23ffffff&color=%23555555](mailto:olexandrkaledin@gmail.com)
-![https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=%23ffffff&color=%23555555](https://t.me/okaledin)
-![https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=%23ffffff&color=%23555555](https://www.linkedin.com/in/oleksandr-kaledin-604b2b227)
-![https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=%23ffffff&color=%23555555](https://m.me/100010129296335)
+[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=%23ffffff&color=%23555555)](https://medium.com/@swiftlynomad)
+[![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=%23ffffff&color=%23555555)](mailto:olexandrkaledin@gmail.com)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=%23ffffff&color=%23555555)](https://t.me/okaledin)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=%23ffffff&color=%23555555)](https://www.linkedin.com/in/oleksandr-kaledin-604b2b227)
+[![](https://img.shields.io/badge/Messenger-0078FF?style=flat&logo=messenger&logoColor=%23ffffff&color=%23555555)](https://m.me/100010129296335)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) 
+[![Twitch Status](https://img.shields.io/twitch/status/heyjaywilson?logo=twitch&style=for-the-badge)](https://twitch.tv/heyjaywilson)
 
 iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
 
