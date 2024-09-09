@@ -28,7 +28,24 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@swiftlynomad">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
+
+  <a href="mailto:olexandrkaledin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://t.me/okaledin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/oleksandr-kaledin-604b2b227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://m.me/100010129296335">
+    <img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
+  </a>
 </div>
+
 
 <div align="center">
   
