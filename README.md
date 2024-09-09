@@ -26,7 +26,7 @@
 </div>
 
 <div style="text-align: left;">
-  <h3><u>📖 Latest <a href="https://medium.com/@swiftlynomad">Blog</a> Posts</u></h3>
+  <h2><u>📖 Latest <a href="https://medium.com/@swiftlynomad">Blog</a> Posts</u></h3>
   <p>
     * <a href="https://medium.com/p/3203a3042d18" style="text-decoration: underline;">Attach to Process & Logger</a> <br>
     * <a href="https://medium.com/p/7c107fb233d2" style="text-decoration: underline;">The Decorator Pattern in Swift: A Comprehensive Guide</a> <br>
