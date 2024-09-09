@@ -28,9 +28,9 @@
 <div style="text-align: left;">
   <h3><u>📖 Latest <a href="https://medium.com/@swiftlynomad">Blog</a> Posts</u></h3>
   <p>
-    🔥 <a href="https://medium.com/@swiftlynomad/an-introduction-to-grids-in-swiftui" style="text-decoration: underline;">An Introduction to Grids in SwiftUI</a> <br>
-    ✨ <a href="https://medium.com/@swiftlynomad/why-have-a-developer-diary" style="text-decoration: underline;">Why Have a Developer Diary?</a> <br>
-    🚀 <a href="https://medium.com/@swiftlynomad/what-is-app-architecture" style="text-decoration: underline;">What is App Architecture?</a>
+    * <a href="https://medium.com/p/3203a3042d18" style="text-decoration: underline;">Attach to Process & Logger</a> <br>
+    * <a href="https://medium.com/p/7c107fb233d2" style="text-decoration: underline;">The Decorator Pattern in Swift: A Comprehensive Guide</a> <br>
+    * <a href="https://medium.com/p/299ed26772d5" style="text-decoration: underline;">SwiftUI Property Wrappers</a>
   </p>
 </div>
 
