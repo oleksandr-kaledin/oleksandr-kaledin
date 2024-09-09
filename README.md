@@ -1,8 +1,6 @@
 
 ## 🦊 Hey foxes, What's cooking?
 
-iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
-
 <div style="text-align: left;">
   <a href="https://medium.com/@swiftlynomad">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
@@ -24,6 +22,8 @@ iOS and macOS developer with over 3 years of experience 🍏. My passion is in b
     <img src="https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
   </a>
 </div>
+
+iOS and macOS developer with over 3 years of experience 🍏. My passion is in building meaningful and impactful software, leveraging modern technologies to solve real-world problems 🚀.
 
 ## Latest [Blog](https://medium.com/@swiftlynomad) Posts
 
