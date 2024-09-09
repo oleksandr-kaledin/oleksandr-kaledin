@@ -27,18 +27,15 @@
 </div>
 
 <div align="center">
-  <h3>📖 Latest Medium Posts:</h3>
+  <h3><u>📖 Latest Medium Posts:</u></h3>
   <p>
     🔥 <a href="https://medium.com/@swiftlynomad/post-1">Post 1 Title</a> <br>
     ✨ <a href="https://medium.com/@swiftlynomad/post-2">Post 2 Title</a> <br>
     🚀 <a href="https://medium.com/@swiftlynomad/post-3">Post 3 Title</a>
   </p>
   <p>
-    <a href="https://medium.com/@swiftlynomad">
-      <img src="https://img.shields.io/badge/See%20All%20Posts-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
+    <a href="https://medium.com/@swiftlynomad">See more...</a>
   </p>
-  <p>🌟 Stay tuned for more content on app development, productivity hacks, and the latest tech trends!</p>
 </div>
 
 <div align="center">
