@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 
 @medium
 
-![https://medium.com/@swiftlynomad](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
+<div align="center">
+  <a href="https://medium.com/@swiftlynomad">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
 
 <div align="center">
   
